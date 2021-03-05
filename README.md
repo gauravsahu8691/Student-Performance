@@ -32,7 +32,7 @@ Attribute Information:
   29 health - current health status (numeric: from 1 - very bad to 5 - very good) <br>
   30 absences - number of school absences (numeric: from 0 to 93) <br> <br>
 
-# these grades are related with the course subject, Math or Portuguese:
+# Grades Attribute:
   31 G1 - first period grade (numeric: from 0 to 20) <br>
   31 G2 - second period grade (numeric: from 0 to 20) <br>
   32 G3 - final grade (numeric: from 0 to 20, output target) <br>
